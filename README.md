@@ -5,6 +5,8 @@
 - Was originally part of a private pokemon center module I created which I will probably open-source soon as well.
   
 - Wanted to open source this to help those who are starting out with webautomation.
+
+- Honestly, if you're looking for a ready-made solution instead of training your own model, an API like [CapSolver](https://dashboard.capsolver.com/passport/register?inviteCode=K4aa2y7rcpfX)) can handle GeeTest pretty well
   
 - Not much documentation is needed as the code should be self explanitory.
 
