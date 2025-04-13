@@ -10,6 +10,6 @@
   
 - Not much documentation is needed as the code should be self explanitory.
 
-- If you need help feel free to reach out to my discord @millionarc.sol
+- If you need help feel free to reach out to my discord @millionarc1
 
 - Please star if you find it helpful, it really motivates me to keep pushing things out.
